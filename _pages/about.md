@@ -1,19 +1,20 @@
 ---
 permalink: /
-title: "yvezao 的个人学术主页"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-欢迎来到我的个人学术主页。这里正在建设中——内容稍后会陆续更新。
+I am **Wang Siying**, a first-year master's student at the [School of Information Resource Management](https://irm.ruc.edu.cn/), Renmin University of China, where I am pursuing a combined Master's–PhD program in Information Analysis under the supervision of [Prof. Ren Ming](https://irm.ruc.edu.cn/).
 
-如果你想了解我，请通过 [邮箱](mailto:1371874652@qq.com) 联系我。
+My research interests lie at the intersection of **Computational Social Science**, **Computational Linguistics**, and **Multi-agent Simulation**. I am also broadly interested in **public administration** and **data elements** (数据要素), and I am especially keen on industry–academia collaboration.
 
-<!--
-以下是模板自带说明，部署前可以删除这一段以及上面那段占位文字，替换为你的真实介绍。
-======================================================================
+Before joining RUC, I received my B.E. in Big Data Management and Applications from the School of Economics and Management at [Communication University of China](http://www.cuc.edu.cn/) (2021–2025). During my undergraduate studies, I was honored with the **National Scholarship** of China.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
--->
+I have previously interned at **VAST**, **Yonyou**, **Lenovo Research**, and **ByteDance**, gaining hands-on experience in both research and engineering environments.
+
+Outside of work, I enjoy **dancing**, **photography**, **traveling**, and **cosplay**.
+
+The best way to reach me is by [email](mailto:1371874652@qq.com). You can also find me on [Google Scholar](https://scholar.google.com/citations?user=WlOSYVcAAAAJ&hl=zh-CN&authuser=1) and [ORCID](https://orcid.org/0009-0006-2835-3918).

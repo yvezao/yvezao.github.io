@@ -9,26 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-我的简历以 PDF 形式提供，点击下方链接下载：
-
-[下载完整简历 (PDF)]({{ base_path }}/files/CV.pdf)
-
-<!--
-下面是从 _publications / _talks / _teaching 自动生成的列表。
-如果你没有这些内容，可以把整页替换为上面的简洁版本。
-======================================================================
+A full version of my CV is available as a PDF: **[Download CV (PDF)]({{ base_path }}/files/CV.pdf)**
 
 Education
 ======
-* 在此填写教育背景
+* **M.A. / Ph.D. (combined program), Information Analysis** — School of Information Resource Management, Renmin University of China, Beijing, China
+  * Sep 2025 – Present (currently first year)
+  * Advisor: Prof. Ren Ming
 
-Work experience
-======
-* 在此填写工作/研究经历
+* **B.E., Big Data Management and Applications** — School of Economics and Management, Communication University of China, Beijing, China
+  * Sep 2021 – Jun 2025
 
-Skills
+Research Interests
 ======
-* 在此填写技能
+* Computational Social Science
+* Computational Linguistics
+* Multi-agent Simulation
+* Public Administration
+* Data Elements (数据要素)
+
+Professional Experience
+======
+* **Research / Engineering Intern** — VAST, Yonyou, Lenovo Research, ByteDance
+
+Honors & Awards
+======
+* **National Scholarship**, Ministry of Education of the People's Republic of China (2023 / 2024)
 
 Publications
 ======
@@ -36,19 +42,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* **Programming**: Python, R, SQL
+* **Methods**: Machine Learning, NLP, Agent-Based Modeling, Operations Research
+* **Tools**: Git, LaTeX, Jupyter, common data-analysis libraries
 
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======
-* 在此填写社会服务与领导经历
--->
+* Chinese (native)
+* English (fluent)
