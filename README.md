@@ -1,3 +1,8 @@
+---
+permalink: /info/
+title: "Repository Info"
+---
+
 # yvezao.github.io
 
 This repository powers my personal academic homepage at **[https://yvezao.github.io](https://yvezao.github.io)**.
