@@ -52,6 +52,7 @@ docker compose up
 ### 第 1 步：在 GitHub 上创建仓库
 
 1. 登录你的 GitHub 账号 `yvezao`（**先改密码**！你刚才在对话里把密码明文发出来了）。
+   如果你把 PAT/token 也发给过任何人或任何 agent，请立刻在 GitHub 的 token 页面删除旧 token，再生成一个新的。
 2. 点 [https://github.com/new](https://github.com/new) 新建一个仓库：
    - **Repository name** 必须填：`yvezao.github.io`
    - **Public**（必须公开，GitHub Pages 才免费）
@@ -105,12 +106,12 @@ GitHub 会在 1–2 分钟内自动重新构建站点。
 
 | 字段 | 含义 | 当前占位 |
 |---|---|---|
-| `title` | 浏览器标签页标题 | `yvezao / 学术主页` |
-| `name` | 全站显示名 | `yvezao` |
-| `description` | 网站描述 | `yvezao 的个人学术主页` |
+| `title` | 浏览器标签页标题 | `Wang Siying` |
+| `name` | 全站显示名 | `Wang Siying` |
+| `description` | 网站描述 | 学术主页简介 |
 | `url` | 你的站点 URL | `https://yvezao.github.io` |
-| `author.name` | 侧边栏姓名 | `yvezao` |
-| `author.bio` | 侧边栏一句话简介 | 待填 |
+| `author.name` | 侧边栏姓名 | `Wang Siying` |
+| `author.bio` | 侧边栏一句话简介 | 已填，可按需改 |
 | `author.employer` | 单位 | `Renmin University of China` |
 | `author.location` | 所在地 | `Beijing, China` |
 | `author.email` | 联系邮箱 | `1371874652@qq.com` |
@@ -148,7 +149,7 @@ GitHub 会在 1–2 分钟内自动重新构建站点。
 
 - 头像：`images/profile.jpg`（当前用的是你的 `1寸白底-精修.jpg`）。
   如果想换：直接把新照片**覆盖**这个文件，文件名保持不变。
-- 简历：`files/CV.pdf`（当前用的是你的 `简历4.pdf`）。
+- 简历：`files/CV.pdf`（当前用的是你的英文版 `简历4en.pdf`）。
   想换：直接覆盖。
 
 ### 修改主题颜色
@@ -225,4 +226,3 @@ my_web_page/
 
 **Q: 怎么加中文/英文双语？**
 - 这是进阶功能，模板默认单语言。要做双语得改 `_layouts/` 和 `_data/navigation.yml`，到时候告诉我要不要做。
-

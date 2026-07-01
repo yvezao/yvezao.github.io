@@ -14,7 +14,7 @@ A full version of my CV is available as a PDF: **[Download CV (PDF)]({{ base_pat
 Education
 ======
 * **M.A. / Ph.D. (combined program), Information Analysis** — School of Information Resource Management, Renmin University of China, Beijing, China
-  * Sep 2025 – Present (currently first year)
+  * Sep 2025 – Present
   * Advisor: Prof. Ren Ming
 
 * **B.E., Big Data Management and Applications** — School of Economics and Management, Communication University of China, Beijing, China
