@@ -1,5 +1,5 @@
 .jekyll-cache/
 _site/
 .bundle/
-vendor/
+/vendor/
 node_modules/
