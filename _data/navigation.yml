@@ -12,7 +12,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/
+    url: /files/CV.pdf
 
   # To re-enable any of the following, uncomment the relevant block.
   # Once you have content under the corresponding directory, the page will

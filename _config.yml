@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Wang Siying"
-  pronouns         : "she/her"
   bio              : "MS/PhD student · Computational Social Science · Computational Linguistics · Multi-agent Simulation"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
+  award            : "National Scholarship (Undergraduate)"
   uri              : # URL
   email            : "1371874652@qq.com"
 
