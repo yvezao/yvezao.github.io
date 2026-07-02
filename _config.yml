@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Wang Siying"
-  bio              : "MS/PhD student · Computational Social Science · Computational Linguistics · Multi-agent Simulation"
+  bio              : "MS/PhD student<br>Computational Social Science<br>Computational Linguistics<br>Multi-agent Simulation"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   award            : "National Scholarship (Undergraduate)"
   uri              : # URL
-  email            : "1371874652@qq.com"
+  email            : "sywang807@ruc.edu.cn"
 
   # Academic websites
   academia         : # URL

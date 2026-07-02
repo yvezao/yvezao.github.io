@@ -11,7 +11,7 @@ I am **Wang Siying**, a graduate student at the [School of Information Resource 
 
 My research interests lie at the intersection of **Computational Social Science**, **Computational Linguistics**, and **Multi-agent Simulation**. I am also broadly interested in **public administration**, **data elements**, and industry-academia collaboration.
 
-Before joining RUC, I studied Big Data Management and Applications at the School of Economics and Management, [Communication University of China](http://www.cuc.edu.cn/) (2021-2025). I have previously interned at **VAST**, **Yonyou**, **Lenovo Research**, and **ByteDance**, gaining hands-on experience in both research and engineering environments. Outside of work, I enjoy **dancing**, **photography**, **traveling**, and **cosplay**.
+Before joining RUC, I studied Big Data Management and Applications at the [School of Economics and Management](https://sem.cuc.edu.cn/), Communication University of China (2021-2025). I have previously interned at **VAST**, **Yonyou (用友)**, **Lenovo Research**, and **ByteDance**, gaining hands-on experience in both research and engineering environments. Outside of work, I enjoy **dancing**, **photography**, **traveling**, and **cosplay**.
 
 **[Download CV (PDF)](/files/CV.pdf)**
 

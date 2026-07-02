@@ -306,7 +306,8 @@
   }
 
   li {
-    white-space: nowrap;
+    overflow-wrap: anywhere;
+    white-space: normal;
   }
 
   a {
